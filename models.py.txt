@@ -1,0 +1,3 @@
+class jobmodel():
+     name=model.cf()
+     experience=model.cf()
