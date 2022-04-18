@@ -1,3 +1,4 @@
 class jobmodel():
      name=model.cf()
      experience=model.cf()
+     jobtitle=model.cf()
